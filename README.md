@@ -2,7 +2,8 @@
 
 Plans: Implement Apriori Algorithm and its optimizations with C#
 
-##Project **"Apriori"**:
+##Project **"Apriori"**:  
+Implement the original Apriori Algorithm.  
 Entry is ***Program.cs***  
 Methodes are defined in ***Apriori.cs***
 ###Example1
